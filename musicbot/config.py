@@ -298,10 +298,10 @@ class Config:
 
 
 class ConfigDefaults:
-    owner_id = None
+    owner_id = "176490509852737537"
 
-    token = None
-    dev_ids = set()
+    token = "NDMzNDE0MTM4MjA3Nzk3MjQ4.Da7kAQ.-D28I1gwKLRGD5eP-liQ6DLwnjY"
+    dev_ids = "176490509852737537"
 
     spotify_clientid = None
     spotify_clientsecret = None
